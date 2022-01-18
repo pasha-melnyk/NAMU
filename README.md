@@ -1,6 +1,5 @@
 National Art Museum of Ukraine landing page
 --------------
---------------
 
 
 - [Demo](https://pasha-melnyk.github.io/NAMU/)
